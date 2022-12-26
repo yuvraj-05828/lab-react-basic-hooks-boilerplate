@@ -9,16 +9,6 @@ In this exercise, the goal is to learn various use cases with hooks:
 
 - React Hooks
 
-## Getting started
-
-1. Fork this repo
-2. Clone this repo
-
-Whenever you create a first significant change, you should make your first commit.
-
-3. Follow these [guidelines to add, commit and push changes](https://github.com/FACEPrep-ProGrad/general-guidelines-labs-project-builders.git).
-
-
 ## Instructions
 In this lab we will try to work with hooks in react. You can use a single component or create one component for each progression. This lab is just for your reference and kinldy explore the power of react hooks.
 
@@ -292,5 +282,5 @@ Once you have understood the above `hooks` mentioned, let's quickly test our und
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/TaskHook.gif)
 
 
-Happy Coding Kalvium ❤️!
+Happy Coding ❤️!
 
